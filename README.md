@@ -1,6 +1,6 @@
 # Dmitry Belyaev
 
-Software and infrastructure engineer.
+Software and infrastructure engineer. Golang/Python
 <!--
 **DDBelyaev/ddbelyaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
